@@ -2,7 +2,7 @@
 apiVersion: krew.googlecontainertools.github.com/v1alpha2
 kind: Plugin
 metadata:
-  name: kubectl-catalogd
+  name: catalogd
 spec:
   version: v0.1.0
   platforms:
